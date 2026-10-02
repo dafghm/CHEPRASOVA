@@ -1,2 +1,6 @@
-создать ветку git branch
+создать ветку git branch 
+
+добавть файл touch
+
+отправить git push origin
 
